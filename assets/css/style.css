@@ -275,12 +275,12 @@ footer {
 .pb-80 {padding-bottom: 5rem;}
 .pt-90 {padding-top:5.625rem;}
 .pb-90 {padding-bottom: 5.625rem;}
-.pt-100 {padding-top: 6.25rem;}
+.pt-100 {padding-top: 5.25rem;}
 .pb-100 {padding-bottom: 6.25rem;}
 .pt-110 {padding-top: 6.875rem;}
 .pb-110 {padding-bottom: 6.875rem;}
 .pt-120 {padding-top: 7.5rem;}
-.pb-120 {padding-bottom: 7.5rem;}
+.pb-120 {padding-bottom: 5.0rem;}
 .pt-130 {padding-top: 8.125rem;}
 .pb-130 {padding-bottom: 8.125rem;}
 .pt-140 {padding-top: 8.75rem;}
@@ -1634,7 +1634,7 @@ header.style3.sticky .header-right-btns > a {background-color: #f6f7fb;}
 .event-wrap .nav-tabs li a.nav-link.active span {opacity: 1;}
 .event-wrap .nav-tabs li a.nav-link.active {
   color: #fff;
-  margin-bottom: 30.9375rem;
+  margin-bottom: 8.9375rem;
 }
 .event-wrap .nav-tabs li a:before {
   content: "";
@@ -1685,7 +1685,7 @@ header.style3.sticky .header-right-btns > a {background-color: #f6f7fb;}
 .event-style1 {
   display: flex;
   flex-wrap: wrap;
-  padding: 2rem 6.875rem 2.125rem 5.3125rem;
+  padding: 2rem 2.875rem 2.125rem 5.3125rem;
 }
 .event-style1 + .event-style1 {border-top: 1px dashed #dad9d9;}
 .event-meta {line-height: initial;}
